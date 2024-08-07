@@ -1,0 +1,50 @@
+
+<DOCTYPE! html>
+<html>
+<body style="background-color:powderblue">
+
+<h1 style="color:red">Iteration 1</h1>
+<h2 style="color:red">A little about me</h2>
+<p1>
+<ul>
+<li>HI, this is Krishna surya from India and I am a student pursuing computer science engineering in madras.</li>
+<li>I am 19 years old and I live in the city of Hyderabad</li>
+
+<li>I enjoy coding , basketball. Both of them are much better when you have great music accompanying the task. </li>
+
+<li>I also enjoy cooking and the task of organizing my space</li>
+
+<li>It has been 1 year since I started my coding journey.We will talk about this in the next section a little bit more clearly</li>
+</ul>
+</p1>
+<h2 style="color:red"> My skills as a cs student</h2>
+<p2><i>
+<ul>
+
+<li>lets go in the chronological order . The first thing I learned was a little java . It was very less and honestly , I am sure I don't remember anything. </li>
+
+<li>So , lets get into my skills . The first skill would be "C language". This was the first language, I have learnt and which I use for everything</li>
+
+<li> As I have been using C , I started leetcode and currently at the 30s. I would like to make this number 50 by the end of the June 2024 </li>
+
+<li>the second skill is C++. I am just as good with the c++ basics as I am with the c language. my knowledge of DSA AND OOPS  in C++ is 0 . i really hope thet I can improve it over the very limited time that I have left in my vacation </li>
+
+<li>I am also a little familiar with HTML . This is the proof . For now, I can understand it and kinda navigate through simple websites .  </li>
+
+
+</ul>
+<br>
+</i>
+</p2>
+<h2> MY PROFILES </h2>
+<p2>
+<ul>
+<li><a href="https://www.linkedin.com/in/krishna-surya-chavakula-0b65142b2/" target="_blank">My LinkedIn profile</a></li>
+<br>
+<li><a href="https://leetcode.com/u/krishna2054/">My Leetcode profile</a></li>
+
+</ul>
+</p2>
+
+</body>
+</html>
